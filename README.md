@@ -1,3 +1,2 @@
 # jigsaw-toxic-comment
-<p>Sample code for Kaggle Jigsaw Toxic Comment Classification</p>
-<p>Result: Silver 72/1621</p>
+<p>Sample code for the Kaggle Jigsaw Toxic Comment Classification</p>
